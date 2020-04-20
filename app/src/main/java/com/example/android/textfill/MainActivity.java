@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import com.example.android.textfilllibrary.TextFill;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
